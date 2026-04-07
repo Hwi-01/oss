@@ -2,5 +2,6 @@
 
 int main() {
     printf("백지윤\n");
+    printf("채성휘\n");
     return 0;
 }
